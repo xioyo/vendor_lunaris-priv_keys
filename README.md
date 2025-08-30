@@ -1,13 +1,13 @@
-# infinity-priv_keys-template
+# lunaris-priv_keys-template
 
 # Usage
 
 ```bash
-croot && git clone https://github.com/ProjectInfinity-X/vendor_infinity-priv_keys-template vendor/infinity-priv/keys
+croot && git clone https://github.com/xioyo/vendor_lunaris-priv_keys-template vendor/lunaris-priv/keys
 ```
 
 ```bash
-cd vendor/infinity-priv/keys
+cd vendor/lunaris-priv/keys
 ```
 
 ```
